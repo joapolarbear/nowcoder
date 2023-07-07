@@ -1,6 +1,3 @@
-reset
-reset board
-board add
-board delet
-reboot backplane
-backplane abort
+151121.15
+101110221
+0.02

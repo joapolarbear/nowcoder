@@ -1,3 +1,5 @@
+import bisect
+
 INFINIT = 1e6
 DEBUG = False
 def debug(*args, **kwargs):
